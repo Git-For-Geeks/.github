@@ -36,7 +36,7 @@ Here's something beginner-friendly for you:
 
 [https://github.com/Git-For-Geeks/Starter-Repository](https://github.com/Git-For-Geeks/Starter-Repository)
 
-### Step - 4:
+### Step - 3:
 
 Submit Pull Requests. Try and submit at least ***4 Pull Requests*** and wait for them to be verified. Make sure to submit quality PRs.
 
