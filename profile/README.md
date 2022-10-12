@@ -40,10 +40,11 @@ Here's something beginner-friendly for you:
 
 ### Step - 3:
 
-Submit Pull Requests. Try and submit at least ***4 Pull Requests*** and wait for them to be verified. Make sure to submit quality PRs.
+Submit Pull Requests. Try and submit at least ***4 Pull Requests*** and wait for them to be verified. Make sure to submit quality PRs
 
 ---
 
 Follow us : 
 
 [GFG RCOEM | Instagram | Linktree](https://linktr.ee/gfgrcoem)
+
