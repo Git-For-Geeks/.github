@@ -1,3 +1,5 @@
+![image](./Assets/gfg-banner.png)
+
 ## Hi there 👋
 
 ## Welcome to Git For Geeks 2022
