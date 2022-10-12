@@ -1,4 +1,4 @@
-![image](./gfg-banner.png)
+![image](https://user-images.githubusercontent.com/90423812/195241228-23e70dec-a9d8-4dd6-bd84-a1b21eae2cb5.png)
 
 ## Hi there 👋
 
