@@ -1,4 +1,4 @@
-![image](./Assets/gfg-banner.png)
+![image](./gfg-banner.png)
 
 ## Hi there 👋
 
