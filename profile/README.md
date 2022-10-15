@@ -16,6 +16,8 @@ Do **some fantastic projects, put them in your directory, and create a pull requ
 
 ---
 
+## View Leader Board - [Link](https://adorable-scone-a2f25a.netlify.app/)
+
 ## How can you join?
 
 ### Step - 1:
