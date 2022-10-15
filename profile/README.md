@@ -30,7 +30,7 @@ Need help? Here are some resources to help you set up your GitHub account:
 
 Find good projects worth contributing to on our GitHub page. 
 
-You can type `label:gitforgeeks is:issue is:open`
+You can type `label:git-for-geeks is:issue is:open`
 
 You can add a language label of your choice to filter open issues. If you are a beginner and can’t find good issues then there’s tag `label:good-first-issue` which filters out issues for beginners who want to contribute.
 
